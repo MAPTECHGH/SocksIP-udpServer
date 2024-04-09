@@ -10,11 +10,3 @@ wget https://raw.githubusercontent.com/AVEGAH/SocksIP-udpServer/main/UDPserver.s
 ```
 
 ## 
-
-# INSTALADOR DEL SCRIPT
-
-UDPclient Android SocksIP :point_right: [AQUI](https://play.google.com/store/apps/details?id=com.newtoolsworks.sockstunnel)
-
-para colaborar con la traduccion en su idioma, contactar con :point_right: [@Rufu99](https://t.me/Rufu99)
-
-To collaborate with the translation in your language, contact :point_right: [@Rufu99](https://t.me/Rufu99)
