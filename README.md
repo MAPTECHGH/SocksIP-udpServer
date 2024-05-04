@@ -5,7 +5,7 @@
 ___Update System Packages and Install SCRIPT___
 
 ```
-wget https://raw.githubusercontent.com/AVEGAH/SocksIP-udpServer/main/UDPserver.sh; chmod +x UDPserver.sh; ./UDPserver.sh
+wget https://raw.githubusercontent.com/MAPTECHGH/SocksIP-udpServer/main/UDPserver.sh; chmod +x UDPserver.sh; ./UDPserver.sh
 
 ```
 
